@@ -10,7 +10,7 @@
 * [삼육대학교 시설](outline/undefined-2.md)
 * [일정표 (기획팀 초안)](outline/undefined-3.md)
 * [호프채널 코리아 (방송 송출)](outline/undefined-4.md)
-* [1차 등록인원 분배](outline/1.md)
+* [등록인원 분배](outline/1.md)
 * [예산안](outline/undefined-5.md)
 
 ## 부서별 업무 (각 합회 임원회의)
