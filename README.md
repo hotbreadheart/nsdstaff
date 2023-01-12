@@ -22,10 +22,10 @@ description: 제3회 북아시아태평양지회 패스파인더 캠포리를 �
 [1.md](outline/1.md)
 {% endcontent-ref %}
 
-{% content-ref url="team1/" %}
-[team1](team1/)
+{% content-ref url="undefined/team1.md" %}
+[team1.md](undefined/team1.md)
 {% endcontent-ref %}
 
 ## 캠포리포스터
 
-<figure><img src="image/poster.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/poster.jpg" alt=""><figcaption></figcaption></figure>

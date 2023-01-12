@@ -5,7 +5,7 @@
 
 ## 캠포리개요 (부장회의) <a href="#outline" id="outline"></a>
 
-* [각종 위원회 및 업무분장](outline-1.md)
+* [각종 위원회 및 업무분장](outline/outline-1.md)
 * [회의일정](outline/undefined.md)
 * [삼육대학교 시설](outline/undefined-2.md)
 * [일정표 (기획팀 초안)](outline/undefined-3.md)
@@ -15,4 +15,4 @@
 
 ## 부서별 업무 (각 합회 임원회의)
 
-* [총무부](team1/README.md)
+* [총무부](undefined/team1.md)
