@@ -6,8 +6,6 @@ description: 제3회 북아시아태평양지회 패스파인더 캠포리를 �
 
 ## 캠포리포스터
 
-<a href="#"><img src="https://github.com/hotbreadheart/nsdstaff/image/poster.jpg" width="400px" alt="sample image"></a> 
-
 ## 캠포리의 개요
 
 > 기       간 : 2023. 8.1(화)-5(토)
