@@ -1,9 +1,10 @@
 # Table of contents
 
-* [위원회 및 업무분장](README.md)
+* [NSD캠포리 종합 운영 메뉴얼](main.md)
 
 ## 캠포리개요 <a href="#outline" id="outline"></a>
 
+* [위원회 및 업무분장](README.md)
 * [회의일정](outline/undefined.md)
 * [삼육대학교 시설](outline/undefined-2.md)
 * [일정표 (기획팀 초안)](outline/undefined-3.md)
