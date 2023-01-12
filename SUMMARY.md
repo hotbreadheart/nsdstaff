@@ -18,4 +18,5 @@
 
 ***
 
-* [총무부](team1.md)
+* [총무부](team1/README.md)
+  * [총무부](team1/team1.md)
