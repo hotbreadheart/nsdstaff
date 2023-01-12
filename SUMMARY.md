@@ -15,4 +15,4 @@
 
 ## 부서별 업무 (각 합회 임원회의)
 
-* [총무부](undefined/team1.md)
+* [총무부](team1/README.md)
