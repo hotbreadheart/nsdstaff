@@ -8,4 +8,4 @@
 
 {% embed url="https://www.icloud.com/shortcuts/1f424c61b3cf4540bf02a96d51e22156" %}
 
-#### 2.&#x20;
+#### 2. '단축키 가져오기'  터치
