@@ -19,3 +19,12 @@
   * [캠포리 참가 신청 안내 (초안)](undefined/team1/undefined.md)
   * [참가신청서 클럽용 (한글,PDF, 이미지)](undefined/team1/pdf.md)
   * [참가신청서 개인용 (Google form, 충청합회)](https://docs.google.com/forms/d/e/1FAIpQLSfKcgWwNuVSn8hoMxHSC\_yTB0rE1\_2RMu-yIwNCdCYt811NuA/viewform?usp=sf\_link)
+
+***
+
+* [재무부 (공란)](undefined-1.md)
+* [홍보부 (공란)](undefined-2.md)
+* [순서/기획부 (공란)](undefined-3.md)
+* [부스 운영부 (공란)](undefined-4.md)
+* [지휘통제부 (공란)](undefined-5.md)
+* [의전/통역부 (공란)](undefined-6.md)
