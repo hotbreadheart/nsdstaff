@@ -82,25 +82,37 @@
 
 <figure><img src=".gitbook/assets/KakaoTalk_20230113_211321548.jpg" alt=""><figcaption></figcaption></figure>
 
+
+
 ### **3. '단축어 추가' 터치**
 
 <figure><img src=".gitbook/assets/KakaoTalk_20230113_211321548_01.jpg" alt=""><figcaption></figcaption></figure>
 
-### **4. 단축어 오른쪽 상단 위 '더보기 아이콘' 터치**
+
+
+### **4. NSD 운영자료 오른쪽 상단 위 '더보기 아이콘' 터치**
 
 <figure><img src=".gitbook/assets/KakaoTalk_20230113_211321548_02.jpg" alt=""><figcaption></figcaption></figure>
+
+
 
 ### **5. 하단 탭에서 '공유 아이콘' 터치**
 
 <figure><img src=".gitbook/assets/KakaoTalk_20230113_211321548_03 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-### **6. '홈 화면에 추가' 터**
+
+
+### **6. '홈 화면에 추가' 터치**
 
 <figure><img src=".gitbook/assets/KakaoTalk_20230113_211321548_04.jpg" alt=""><figcaption></figcaption></figure>
+
+
 
 ### **7. 오른쪽 상단 '추가' 터치**
 
 <figure><img src=".gitbook/assets/KakaoTalk_20230113_211321548_05.jpg" alt=""><figcaption></figcaption></figure>
+
+
 
 ### **8. 아이폰 홈 화면에 추가 완료**
 
