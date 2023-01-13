@@ -5,6 +5,7 @@
 {% endhint %}
 
 #### 1. 다음 링크 'Shortcuts'를 터치
+<figure><center><img src=".gitbook/assets/KakaoTalk_20230113_211321548.jpg"  width="300" alt=""><figcaption></figcaption></center></figure>
 
 {% embed url="https://www.icloud.com/shortcuts/1f424c61b3cf4540bf02a96d51e22156" %}
 
