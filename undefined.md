@@ -5,7 +5,6 @@
 {% endhint %}
 
 #### 1. 다음 링크 'Shortcuts'를 터치
-<figure><center><img src=".gitbook/assets/KakaoTalk_20230113_211321548.jpg"  width="300" alt=""><figcaption></figcaption></center></figure>
 
 {% embed url="https://www.icloud.com/shortcuts/1f424c61b3cf4540bf02a96d51e22156" %}
 
@@ -13,7 +12,7 @@
 {% tab title="아이폰에 Chrome 앱이 있는 폰" %}
 #### 2. '단축키 가져오기'  터치
 
-<figure><center><img src=".gitbook/assets/KakaoTalk_20230113_211321548.jpg"  width="300" alt=""><figcaption></figcaption></center></figure>
+<figure><img src=".gitbook/assets/KakaoTalk_20230113_211321548.jpg" alt=""><figcaption></figcaption></figure>
 
 #### 3.  '단축어 추가'  터치
 
