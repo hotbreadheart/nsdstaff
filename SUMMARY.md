@@ -15,4 +15,5 @@
 
 ## 부서별 업무 (각 합회 임원회의)
 
-* [총무부](team1/README.md)
+* [총무부](undefined/team1/README.md)
+  * [캠포리 참가 신청 안내 (초안](undefined/team1/undefined.md)

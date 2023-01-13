@@ -26,8 +26,8 @@ description: 제3회 북아시아태평양지회 패스파인더 캠포리를 �
 [schedule.md](outline/schedule.md)
 {% endcontent-ref %}
 
-{% content-ref url="team1/" %}
-[team1](team1/)
+{% content-ref url="undefined/team1/" %}
+[team1](undefined/team1/)
 {% endcontent-ref %}
 
 ## 캠포리포스터
