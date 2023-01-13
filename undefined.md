@@ -38,6 +38,8 @@
 
 <figure><img src=".gitbook/assets/KakaoTalk_20230113_211321548_06.jpg" alt=""><figcaption></figcaption></figure>
 {% endtab %}
+
+{% tab title="아이폰에 Chrome 앱이 없는 폰" %}
 #### 2. '단축키 가져오기'  터치
 
 <figure><img src=".gitbook/assets/KakaoTalk_20230113_211321548.jpg" alt=""><figcaption></figcaption></figure>
@@ -65,7 +67,5 @@
 #### 8. 아이폰 홈 화면에 추가 완료
 
 <figure><img src=".gitbook/assets/KakaoTalk_20230113_211321548_06.jpg" alt=""><figcaption></figcaption></figure>
-{% tab title="아이폰에 Chrome 앱이 없는 폰" %}
-
 {% endtab %}
 {% endtabs %}
