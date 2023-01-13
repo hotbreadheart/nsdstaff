@@ -18,25 +18,55 @@
 
 <figure><img src=".gitbook/assets/KakaoTalk_20230113_211321548_01.jpg" alt=""><figcaption></figcaption></figure>
 
-### **4. 단축어 오른쪽 상단 위 '더보기 아이콘' 터치**
+### **4. NSD 운영자료 오른쪽 상단 위 '더보기 아이콘' 터치**
 
 <figure><img src=".gitbook/assets/KakaoTalk_20230113_211321548_02.jpg" alt=""><figcaption></figcaption></figure>
 
-### 5.
+### 5. 팝업 창의 '보기'를 터치
 
-### **5. 하단 탭에서 '공유 아이콘' 터치**
+<figure><img src=".gitbook/assets/KakaoTalk_20230113_211321548_07.jpg" alt=""><figcaption></figcaption></figure>
+
+##
+
+### 6. 팝업 창의 'App Store에서 보기' 를 터치
+
+<figure><img src=".gitbook/assets/KakaoTalk_20230113_211321548_08.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+### 7. Google Chrome 앱을 '받기'
+
+<figure><img src=".gitbook/assets/KakaoTalk_20230113_211321548_09.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+### 8.  설치한 Google Chrome 앱을 터치하여열어 초기 설정 완료
+
+
+
+### 9.  아이폰의 '단축어' 앱을 터치
+
+
+
+### 10.  **NSD 운영자료 오른쪽 상단 위 '더보기 아이콘' 터치**
+
+<figure><img src=".gitbook/assets/KakaoTalk_20230113_211321548_02.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+### **11. 하단 탭에서 '공유 아이콘' 터치**
 
 <figure><img src=".gitbook/assets/KakaoTalk_20230113_211321548_03 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-### **6. '홈 화면에 추가' 터**
+### **12. '홈 화면에 추가' 터**
 
 <figure><img src=".gitbook/assets/KakaoTalk_20230113_211321548_04.jpg" alt=""><figcaption></figcaption></figure>
 
-### **7. 오른쪽 상단 '추가' 터치**
+### **13. 오른쪽 상단 '추가' 터치**
 
 <figure><img src=".gitbook/assets/KakaoTalk_20230113_211321548_05.jpg" alt=""><figcaption></figcaption></figure>
 
-### **8. 아이폰 홈 화면에 추가 완료**
+### **14. 아이폰 홈 화면에 추가 완료**
 
 <figure><img src=".gitbook/assets/KakaoTalk_20230113_211321548_06.jpg" alt=""><figcaption></figcaption></figure>
 {% endtab %}
