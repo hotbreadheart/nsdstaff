@@ -8,4 +8,24 @@
 
 {% embed url="https://www.icloud.com/shortcuts/1f424c61b3cf4540bf02a96d51e22156" %}
 
+{% tabs %}
+{% tab title="아이폰에 Chrome 앱이 있는 폰" %}
 #### 2. '단축키 가져오기'  터치
+
+<figure><img src=".gitbook/assets/KakaoTalk_20230113_211321548.jpg" alt=""><figcaption></figcaption></figure>
+
+#### 3.  '⨁단축어 추가'  터치
+
+<figure><img src=".gitbook/assets/KakaoTalk_20230113_211321548_01.jpg" alt=""><figcaption></figcaption></figure>
+
+#### 4.  단축어 오른쪽 상단 위 ' ⋯ '  터치
+
+<figure><img src=".gitbook/assets/KakaoTalk_20230113_211321548_02.jpg" alt=""><figcaption></figcaption></figure>
+
+
+{% endtab %}
+
+{% tab title="아이폰에 Chrome 앱이 없는 폰" %}
+
+{% endtab %}
+{% endtabs %}
