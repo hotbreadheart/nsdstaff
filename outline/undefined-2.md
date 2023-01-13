@@ -26,5 +26,4 @@
 | 체육관, 운동장 |               |                                        부스 설치, 샤워장                                        |
 |    버스    |      200명     |                                       45인승 / 5대 가능                                       |
 
-* <mark style="color:red;background-color:red;">불꽃</mark><mark style="color:red;background-color:red;"><mark style="color:red;">놀이 – 사전 허가 필요<mark style="color:red;"></mark>
-
+* 불꽃놀이 – 사전 허가 필요
