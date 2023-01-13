@@ -12,7 +12,7 @@
 {% tab title="아이폰에 Chrome 앱이 있는 폰" %}
 #### 2. '단축키 가져오기'  터치
 
-<figure><img src=".gitbook/assets/KakaoTalk_20230113_211321548.jpg" alt=""><figcaption></figcaption></figure>
+<figure><center><img src=".gitbook/assets/KakaoTalk_20230113_211321548.jpg"  width="300" height="300" alt=""><c/enter><figcaption></figcaption></figure>
 
 #### 3.  '단축어 추가'  터치
 
