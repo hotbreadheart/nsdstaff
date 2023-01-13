@@ -17,3 +17,5 @@
 
 * [총무부](team1/README.md)
   * [캠포리 참가 신청 안내 (초안)](undefined/team1/undefined.md)
+  * [참가신청서 클럽용 (한글,PDF, 이미지)](undefined/team1/pdf.md)
+  * [참가신청서 개인용 (Google form, 충청합회)](https://docs.google.com/forms/d/e/1FAIpQLSfKcgWwNuVSn8hoMxHSC\_yTB0rE1\_2RMu-yIwNCdCYt811NuA/viewform?usp=sf\_link)
