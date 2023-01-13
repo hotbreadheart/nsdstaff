@@ -2,7 +2,7 @@
 
 * [NSD캠포리 종합 운영 메뉴얼](README.md)
 * [2023 NSD Pathfinder Camporee Youtube](https://youtu.be/C3V68GA\_ndM)
-* [아이폰 홈에 바로가기 아이콘 추가하기](undefined.md)
+* [아이폰 홈에 바로가기 추가하기](undefined.md)
 
 ## 캠포리개요 (부장회의) <a href="#outline" id="outline"></a>
 
