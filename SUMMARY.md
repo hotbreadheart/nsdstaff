@@ -1,7 +1,7 @@
 # Table of contents
 
 * [NSD캠포리 종합 운영 메뉴얼](README.md)
-* [2023 NSD Pathfinder Camporee](https://youtu.be/C3V68GA\_ndM)
+* [2023 NSD Pathfinder Camporee Youtube](https://youtu.be/C3V68GA\_ndM)
 
 ## 캠포리개요 (부장회의) <a href="#outline" id="outline"></a>
 
