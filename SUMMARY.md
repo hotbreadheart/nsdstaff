@@ -2,6 +2,7 @@
 
 * [NSD캠포리 종합 운영 메뉴얼](README.md)
 * [2023 NSD Pathfinder Camporee Youtube](https://youtu.be/C3V68GA\_ndM)
+* [아이폰 홈에 아이콘 추가하기](undefined.md)
 
 ## 캠포리개요 (부장회의) <a href="#outline" id="outline"></a>
 
@@ -15,16 +16,16 @@
 
 ## 부서별 업무 (각 합회 임원회의)
 
-* [총무부](team1/README.md)
-  * [캠포리 참가 신청 안내 (초안)](undefined/team1/undefined.md)
-  * [참가신청서 클럽용 (한글,PDF, 이미지)](undefined/team1/pdf.md)
+* [총무부](undefined-1/team1/README.md)
+  * [캠포리 참가 신청 안내 (초안)](undefined-1/team1/undefined.md)
+  * [참가신청서 클럽용 (한글,PDF, 이미지)](undefined-1/team1/pdf.md)
   * [참가신청서 개인용 (Google form, 충청합회)](https://docs.google.com/forms/d/e/1FAIpQLSfKcgWwNuVSn8hoMxHSC\_yTB0rE1\_2RMu-yIwNCdCYt811NuA/viewform?usp=sf\_link)
 
 ***
 
-* [재무부 (공란)](undefined-1.md)
-* [홍보부 (공란)](undefined-2.md)
-* [순서/기획부 (공란)](undefined-3.md)
-* [부스 운영부 (공란)](undefined-4.md)
-* [지휘통제부 (공란)](undefined-5.md)
-* [의전/통역부 (공란)](undefined-6.md)
+* [재무부 (공란)](undefined-2.md)
+* [홍보부 (공란)](undefined-3.md)
+* [순서/기획부 (공란)](undefined-4.md)
+* [부스 운영부 (공란)](undefined-5.md)
+* [지휘통제부 (공란)](undefined-6.md)
+* [의전/통역부 (공란)](undefined-7.md)
