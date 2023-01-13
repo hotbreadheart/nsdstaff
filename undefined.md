@@ -64,13 +64,19 @@
 
 <figure><img src=".gitbook/assets/KakaoTalk_20230113_211321548_03 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-### **12. '홈 화면에 추가' 터**
+
+
+### **12. '홈 화면에 추가' 터치**
 
 <figure><img src=".gitbook/assets/KakaoTalk_20230113_211321548_04.jpg" alt=""><figcaption></figcaption></figure>
+
+
 
 ### **13. 오른쪽 상단 '추가' 터치**
 
 <figure><img src=".gitbook/assets/KakaoTalk_20230113_211321548_05.jpg" alt=""><figcaption></figcaption></figure>
+
+
 
 ### **14. 아이폰 홈 화면에 추가 완료**
 
