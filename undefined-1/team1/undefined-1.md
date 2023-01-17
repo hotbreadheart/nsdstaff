@@ -3,7 +3,7 @@
 ## 실내(강의실) 텐트 설치 장소
 
 {% tabs %}
-{% tab title="사무엘관" %}
+{% tab title="사무" %}
 ### 1. 사무엘관
 
 #### 강의실 별 텐트 동수
@@ -34,7 +34,7 @@
 <figure><img src="../../.gitbook/assets/전경01사무엘관.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="신학관" %}
+{% tab title="신학" %}
 ### 2. 신학관
 
 #### 강의실 별 텐트 동 수
@@ -61,7 +61,7 @@
 <figure><img src="../../.gitbook/assets/전경02신학관.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="에스라관" %}
+{% tab title="에스" %}
 ### 3. 에스라관
 
 #### 강의실 별 텐트 동 수
@@ -85,7 +85,7 @@
 <figure><img src="../../.gitbook/assets/전경03에스라관.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="바울관" %}
+{% tab title="바울" %}
 ### 4. 바울관
 
 #### 강의실 별 텐트 동 수
@@ -115,7 +115,7 @@
 <figure><img src="../../.gitbook/assets/전경04바울관.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="제2과학관" %}
+{% tab title="제2" %}
 ### 5. 제2과학관
 
 #### 강의실 별 텐트 동 수
