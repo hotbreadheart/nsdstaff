@@ -52,5 +52,4 @@ description: 제3회 북아시아태평양지회 패스파인더 캠포리를 �
 
 ## 캠포리포스터
 
-<figure><img src=".gitbook/assets/poster.jpg" alt=""><figcaption></figcaption></figure>
-
+<figure><img src=".gitbook/assets/제3회 nsd캠포리 포스터.jpg" alt=""><figcaption></figcaption></figure>
