@@ -2,6 +2,8 @@
 
 ## 실내(강의실) 텐트 설치 장소
 
+{% tabs %}
+{% tab title="사무엘관" %}
 ### 1. 사무엘관
 
 #### 강의실 별 텐트 동수
@@ -21,6 +23,8 @@
 |     | 309호 |  4  |
 |  총  |      | 23동 |
 
+####
+
 #### 사무엘관 평면도
 
 <figure><img src="../../.gitbook/assets/장소01사무엘관.png" alt=""><figcaption></figcaption></figure>
@@ -28,7 +32,9 @@
 #### 사무엘관 전경
 
 <figure><img src="../../.gitbook/assets/전경01사무엘관.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
 
+{% tab title="신학관" %}
 ### 2. 신학관
 
 #### 강의실 별 텐트 동 수
@@ -44,6 +50,8 @@
 |     | 210호 |  2  |
 |  총  |      | 16동 |
 
+####
+
 #### 신학관 평면도
 
 <figure><img src="../../.gitbook/assets/장소02신학관.png" alt=""><figcaption></figcaption></figure>
@@ -51,7 +59,9 @@
 #### 신학관 전경
 
 <figure><img src="../../.gitbook/assets/전경02신학관.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
 
+{% tab title="에스라관" %}
 ### 3. 에스라관
 
 #### 강의실 별 텐트 동 수
@@ -64,6 +74,8 @@
 |     | 306호 |  2  |
 |  총  |      |  9동 |
 
+####
+
 #### 에스라관 평면도
 
 <figure><img src="../../.gitbook/assets/장소03에스라관.png" alt=""><figcaption></figcaption></figure>
@@ -71,7 +83,9 @@
 #### 에스라관 전경
 
 <figure><img src="../../.gitbook/assets/전경03에스라관.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
 
+{% tab title="바울관" %}
 ### 4. 바울관
 
 #### 강의실 별 텐트 동 수
@@ -90,6 +104,8 @@
 |     | 403호 |  1  |
 |  총  |      | 17동 |
 
+####
+
 #### 바울관 평면도
 
 <figure><img src="../../.gitbook/assets/장소04바울관.png" alt=""><figcaption></figcaption></figure>
@@ -97,6 +113,20 @@
 #### 바울관 전경
 
 <figure><img src="../../.gitbook/assets/전경04바울관.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+####
+
+####
+
+###
+
+####
+
+####
+
+####
 
 ### 5. 제2과학관
 
