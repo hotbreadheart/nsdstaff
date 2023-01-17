@@ -114,20 +114,8 @@
 
 <figure><img src="../../.gitbook/assets/전경04바울관.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
-{% endtabs %}
 
-####
-
-####
-
-###
-
-####
-
-####
-
-####
-
+{% tab title="제2과학관" %}
 ### 5. 제2과학관
 
 #### 강의실 별 텐트 동 수
@@ -138,6 +126,8 @@
 |  3층 | 307호 |  2  |
 |  총  |      |  4동 |
 
+####
+
 #### 제2과학관 평면도
 
 <figure><img src="../../.gitbook/assets/장소05제2과학관.png" alt=""><figcaption></figcaption></figure>
@@ -145,6 +135,10 @@
 #### 제2과학관 전경
 
 <figure><img src="../../.gitbook/assets/전경05제2과학관.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+
 
 ## 실외 텐트 설치 장소
 
