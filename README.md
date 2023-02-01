@@ -26,7 +26,7 @@ description: 제3회 북아시아태평양지회 패스파인더 캠포리를 �
 
 ## 캠포리 주제패치
 
-<figure><img src=".gitbook/assets/symbol_2023NSD.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/symbol_2023NSD2.png" alt=""><figcaption></figcaption></figure>
 
 ## 주요 페이지 링크
 
