@@ -2,17 +2,17 @@
 
 ## \[한글파일] 클럽용참가신청서
 
-{% file src="../../.gitbook/assets/제3회 NSD 캠포리 참가 신청서_r3.hwp" %}
+{% file src="../../.gitbook/assets/제3회 NSD 캠포리 참가 신청서_r4.hwp" %}
 
 ## \[PDF파일] 클럽용  참가신청서
 
-{% file src="../../.gitbook/assets/제3회 NSD 캠포리 참가 신청서_r3.pdf" %}
+{% file src="../../.gitbook/assets/제3회 NSD 캠포리 참가 신청서_r4.pdf" %}
 
 ## \[이미지파일] 클럽용  참가신청서
 
-<figure><img src="../../.gitbook/assets/제3회 NSD 캠포리 참가 신청서_r3001.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/제3회 NSD 캠포리 참가 신청서_r4001.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/제3회 NSD 캠포리 참가 신청서_r3002.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/제3회 NSD 캠포리 참가 신청서_r4002.png" alt=""><figcaption></figcaption></figure>
 
 ## \[구글폼] 개인용참가신청서
 
