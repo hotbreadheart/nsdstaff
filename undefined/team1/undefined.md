@@ -20,11 +20,13 @@
 
 ⑤ 티셔츠 사이즈는 다음과 같습니다.
 
-아동: <mark style="color:blue;">**13**</mark>호, <mark style="color:blue;">**14**</mark>호, <mark style="color:blue;">**15**</mark>호, <mark style="color:blue;">**16**</mark>호, <mark style="color:blue;">**17**</mark>호, <mark style="color:blue;">**18**</mark>호
+아동: <mark style="color:blue;">**110**</mark>, <mark style="color:blue;">**120**</mark>, <mark style="color:blue;">**130**</mark>, <mark style="color:blue;">**140**</mark>, <mark style="color:blue;">**150**</mark>
 
-성인: <mark style="color:blue;">**S**</mark>(90), <mark style="color:blue;">**M**</mark>(95), <mark style="color:blue;">**L**</mark>(100), <mark style="color:blue;">**XL**</mark>(105), <mark style="color:blue;">**2XL**</mark>(110), <mark style="color:blue;">**3XL**</mark>(120)
+성인: <mark style="color:blue;">**SS**</mark>(85), <mark style="color:blue;">**S**</mark>(90), <mark style="color:blue;">**M**</mark>(95), <mark style="color:blue;">**L**</mark>(100), <mark style="color:blue;">**LL**</mark>(105), <mark style="color:blue;">**3L**</mark>(110), <mark style="color:blue;">**4L**</mark>(115)
 
 ⑥ ‘티셔츠 사이즈’ 기입시 <mark style="color:red;">**아동은 숫자**</mark>만, <mark style="color:red;">**성인은 영어**</mark>만 기입바랍니다.
+
+<figure><img src="../../.gitbook/assets/티셔츠사이즈.png" alt=""><figcaption><p>캠포리 티셔츠이즈 안내표</p></figcaption></figure>
 
 &#x20;
 
@@ -62,14 +64,20 @@
 
 ⑭ 숙소를 이용하지 않고 <mark style="color:red;">**식사만 하는 경우**</mark>는 다음과 같이 선택 가능합니다.
 
-\- 매일 저녁만: 25,000원 (5끼) → <mark style="color:blue;">**식사1**</mark>
+\- 화요일(개회식) 저녁, 매일 점심: 25,000원 (5끼) → <mark style="color:blue;">**식사1**</mark>
 
 \- 매일 점심과 저녁: 45,000원 (9끼) → <mark style="color:blue;">**식사2**</mark>
 
-⑮ 기입시 <mark style="color:blue;">**기숙2**</mark>, <mark style="color:blue;">**기숙3**</mark>, <mark style="color:blue;">**기숙4**</mark>, <mark style="color:blue;">**텐트**</mark>, <mark style="color:blue;">**식사1**</mark>, <mark style="color:blue;">**식사2**</mark> 로 기입바랍니다.
+⑮ 식사를 하지 않는 경우도 가능합니다. (0원) → 없음
 
-⑯ 현장 입소시 신청한 만큼 식권으로 드립니다.
+⑯ 기입시 <mark style="color:blue;">**기숙2**</mark>, <mark style="color:blue;">**기숙3**</mark>, <mark style="color:blue;">**기숙4**</mark>, <mark style="color:blue;">**텐트**</mark>, <mark style="color:blue;">**식사1**</mark>, <mark style="color:blue;">**식사2**</mark> 로 기입바랍니다.
+
+⑰ 현장 입소시 신청한 만큼 식권으로 드립니다.
 
 &#x20;
 
-⑰ 총 비용은 <mark style="color:red;">**등록비(강당신청)와 숙식신청을 합산**</mark>한 만큼입니다.
+⑱ 총 비용은 <mark style="color:red;">**등록비(강당신청)와 숙식신청을 합산**</mark>한 만큼입니다.
+
+
+
+**총 비용 = 등록비(강당신청) + 숙식신청**
