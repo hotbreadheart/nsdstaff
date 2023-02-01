@@ -14,6 +14,8 @@ description: 제3회 북아시아태평양지회 패스파인더 캠포리를 �
 
 ## 캠포리 홍보 유튜브
 
+북아태지회 캠포리 영상입니다.
+
 {% embed url="https://www.youtube.com/watch?v=C3V68GA_ndM" %}
 
 ## 캠포리의 개요
