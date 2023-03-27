@@ -26,7 +26,8 @@
 
 * [재무부 (공란)](undefined-1.md)
 * [홍보부 (공란)](undefined-2.md)
-* [순서/기획부 (공란)](undefined-3.md)
+* [순서/기획부 (공란)](undefined-3/README.md)
+  * [순서기획팀 계획서(한글이미지)](undefined-3/undefined.md)
 * [부스 운영부 (공란)](undefined-4.md)
 * [지휘통제부 (공란)](undefined-5.md)
 * [의전/통역부 (공란)](undefined-6.md)
