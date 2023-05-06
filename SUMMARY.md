@@ -24,7 +24,7 @@
 
 ***
 
-* [재무부 (공란)](undefined-1-1/README.md)
+* [재무부 (공란)](undefined-1.md)
   * [재무부 세부사항](undefined-1-1/undefined.md)
 * [홍보부 (공란)](undefined-2.md)
 * [순서/기획부 (공란)](undefined-3/README.md)
